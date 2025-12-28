@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(205, 230, 46);
+    font-size: 2rem;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.cards{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+.card{
+    margin: 5px;
+}
+
+.footer{
+    background-color: rgb(228, 232, 34); 
+    padding: 20px;  
+    margin-top: 20px;
+    margin-bottom: 0px;
+    position: inherit;
+    bottom: 0px;    
+}
